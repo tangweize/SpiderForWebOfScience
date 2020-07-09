@@ -22,7 +22,6 @@
 ![页码数设置](https://gitee.com/tangweize/SpiderForWebOfScience/tree/master/assets/ReadMe-1594282742570.png)
 * filename 指定文献信息表格存的路径以及名字
     
-![页码数设置](https://pics1.baidu.com/feed/18d8bc3eb13533fa3840edfe11670c1943345ba3.jpeg?token=8639dd0976ddffaac1a03d9a41d3b8f9)
 
 ### 环境 
 * python 3.6
