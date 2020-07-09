@@ -21,7 +21,7 @@
 * nums_page的设置为下图圆圈里面数字,也就是总页码
 ![页码数设置](https://gitee.com/tangweize/SpiderForWebOfScience/tree/master/assets/ReadMe-1594282742570.png)
 * filename 指定文献信息表格存的路径以及名字
-    
+![sasdd](https://raw.githubusercontent.com/tangweize/SpiderForWebOfScience/master/assets/ReadMe-1594282533769.png)
 
 ### 环境 
 * python 3.6
