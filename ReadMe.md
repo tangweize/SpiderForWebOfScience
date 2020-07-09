@@ -19,7 +19,7 @@
 
 * url_root的设置 带有pages的url链接，但是不需要数字（比如上图里面的2删掉）注意：这个url_root里面是带有验证信息的，一般24小时，需要更换一次
 * nums_page的设置为下图圆圈里面数字,也就是总页码
-![页码数设置](https://github.com/tangweize/SpiderForWebOfScience/tree/master/assets/ReadMe-1594282742570.png)
+![页码数设置](https://gitee.com/tangweize/SpiderForWebOfScience/tree/master/assets/ReadMe-1594282742570.png)
 * filename 指定文献信息表格存的路径以及名字
     
     
