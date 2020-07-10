@@ -482,7 +482,7 @@ def Start_Scarp(root, nums_page, filename):
             INFO[count] = Merge(extract_info2(article_url),extract_info(article_url))
             count += 1
 
-    today = time.strftime("%Y-%m-%d-%s", time.localtime(time.time()))
+    today = time.strftime("%Y-%m-%d-%H-%M-%S", time.localtime(time.time()))
     save_obj(INFO, "Mid_Process_File/"+today)
     return INFO
 
